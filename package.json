@@ -1,0 +1,23 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zefe/databases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zefe/databases/issues"
+  },
+  "homepage": "https://github.com/zefe/databases#readme",
+  "dependencies": {
+    "mongoose": "^5.4.19"
+  }
+}
